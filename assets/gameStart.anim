@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gameStart",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.13333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 1.35,
+          "value": 255
+        },
+        {
+          "frame": 2.5,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
